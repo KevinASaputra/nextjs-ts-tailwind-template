@@ -50,7 +50,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [KevinASaputra/nextjs-ts-tailwind-template](https://github.com/KevinASaputra/nextjs-ts-tailwind-template)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|27<br/>Tools used|12/08/23 <br/>Report generated|
+|29<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -219,9 +219,9 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (9)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (11)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (9)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (11)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -231,6 +231,8 @@ Full tech stack [here](/techstack.md)
 |[@typescript-eslint/eslint-plugin](https://www.npmjs.com/@typescript-eslint/eslint-plugin)|v6.9.1|11/01/23|Sushan Yadav |MIT|N/A|
 |[@typescript-eslint/parser](https://www.npmjs.com/@typescript-eslint/parser)|v6.9.1|11/01/23|Sushan Yadav |BSD-2-Clause|N/A|
 |[eslint-plugin-import](https://www.npmjs.com/eslint-plugin-import)|v2.29.0|11/01/23|Sushan Yadav |MIT|N/A|
+|[husky](https://www.npmjs.com/husky)|v8.0.3|02/28/23|Zachery Ng |MIT|N/A|
+|[lint-staged](https://www.npmjs.com/lint-staged)|v15.0.2|11/01/23|Sushan Yadav |MIT|N/A|
 |[react-dom](https://www.npmjs.com/react-dom)|v18.2.0|11/01/23|Sushan Yadav |MIT|N/A|
 |[tailwindcss](https://www.npmjs.com/tailwindcss)|v3.3.5|11/01/23|Sushan Yadav |MIT|N/A|
 |[tslint-config-prettier](https://www.npmjs.com/tslint-config-prettier)|v1.18.0|11/01/23|Sushan Yadav |MIT|N/A|
