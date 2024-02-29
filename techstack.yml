@@ -2,7 +2,7 @@ repo_name: KevinASaputra/nextjs-ts-tailwind-template
 report_id: a18e703a2094d1b3ce6e0b79b2a3db09
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T08:27:54+00:00'
+timestamp: '2024-02-29T18:59:14+00:00'
 requested_by: sushanyadav
 provider: github
 branch: main
@@ -43,7 +43,7 @@ tools:
   last_updated_by: Sushan Yadav
   last_updated_on: 2023-11-01 16:05:52.000000000 Z
 - name: Next.js
-  description: 'A small framework for server-rendered universal JavaScript apps '
+  description: A small framework for server-rendered universal JavaScript apps
   website_url: https://nextjs.org/
   version: 14.0.1
   open_source: true
@@ -157,7 +157,7 @@ tools:
   last_updated_by: Wahyu Adi Kurniawan
   last_updated_on: 2022-03-17 07:20:25.000000000 Z
 - name: Prettier
-  description: 'Prettier is an opinionated code formatter. '
+  description: Prettier is an opinionated code formatter.
   website_url: https://prettier.io/
   version: 3.0.3
   license: MIT
